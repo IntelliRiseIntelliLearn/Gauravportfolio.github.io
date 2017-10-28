@@ -1,0 +1,37 @@
+/*This CSS File Includes all The Fonts That are used in this Website*/
+/*File Name: Fonts.css*/
+/*Date Of Creations:24-Oct-2017*/
+/*Creater Name:Gaurav Kumar Saini*/
+/*Updated Date:oct-2017*/
+@font-face {
+font-family:MerriweatherSans-Bold;
+src: url(../Fonts/MerriweatherSans-Bold.ttf);
+}
+@font-face {
+font-family: MerriweatherSans-BoldItalic;
+src: url(../Fonts/MerriweatherSans-BoldItalic.ttf);
+}
+@font-face {
+font-family: MerriweatherSans-ExtraBold;
+src: url(../Fonts/MerriweatherSans-ExtraBold.ttf);
+}
+@font-face {
+font-family: MerriweatherSans-ExtraBoldItalic;
+src: url(../Fonts/MerriweatherSans-ExtraBoldItalic.ttf);
+}
+@font-face {
+font-family: MerriweatherSans-Italic;
+src: url(../Fonts/MerriweatherSans-Italic.ttf);
+}
+@font-face {
+font-family: MerriweatherSans-Light;
+src: url(../Fonts/MerriweatherSans-Light.ttf);
+}
+@font-face {
+font-family: MerriweatherSans-LightItalic;
+src: url(../Fonts/MerriweatherSans-LightItalic.ttf);
+}
+@font-face {
+font-family:MerriweatherSans-Regular;
+src: url(../Fonts/MerriweatherSans-Regular.ttf);
+}
